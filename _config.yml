@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
-title: ["Matt Federighi's Portfolio"]
-show_downloads: [true]
+title: [Matt Federighi Portfolio]
+github:
+  zip_url: http://example.com/download.zip
+  another_url: https://www.linkedin.com/in/mattfederighi/
