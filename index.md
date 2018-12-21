@@ -11,6 +11,6 @@ To me, data is much more than numbers and math. It’s an adventure where you ge
 
 ## Contact Info
 
-[LinkedIn](https://help.github.com/categories/github-pages-basics/) <br>
+[LinkedIn](https://www.linkedin.com/in/mattfederighi/) <br>
 [Email](matt.federighi@gmail.com)
 
