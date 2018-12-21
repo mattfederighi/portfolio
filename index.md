@@ -20,5 +20,5 @@ Blah Blah Blah <br><br>
 ### [EDA with Ford Bike Share](#) <br>
 Blah Blah Blah <br><br>
 
-### [Exploratory Machine Learning with IRIS](projects/Iris.html) <br>
+### [Exploratory Machine Learning with IRIS](Iris.html) <br>
 Blah Blah Blah <br><br>
