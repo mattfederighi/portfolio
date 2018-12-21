@@ -5,6 +5,10 @@ I’ve spent a lot of time in nature climbing walls, hiking mountains, and sleep
 To me, data is much more than numbers and math. It’s an adventure where you get to explore large quantities of information, uncovering hidden insights and transforming that information into a story that everyone can understand. I’m well-versed in Operations Management, Business Analytics, Data Analysis, Data Visualization, Leading Cross-Functional Teams, Web Analytics, Behavioural Analytics, Experimental Design, and Utilizing Creativity. 
 
 
+[LinkedIn](https://www.linkedin.com/in/mattfederighi/) <br>
+[Email](matt.federighi@gmail.com)
+
+
 # Projects
 
 ### [Employee Resource Optimization](#) <br>
@@ -18,10 +22,3 @@ Blah Blah Blah <br><br>
 
 ### [Exploratory Machine Learning with IRIS](#) <br>
 Blah Blah Blah <br><br>
-
-
-# Contact Info
-
-[LinkedIn](https://www.linkedin.com/in/mattfederighi/) <br>
-[Email](matt.federighi@gmail.com)
-
